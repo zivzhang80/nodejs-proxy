@@ -86,3 +86,5 @@ This key combination allows you to exit the session while leaving it running in 
 - Cloudflared, Node.js, and Xray configurations are generated automatically.
 - The script includes functions for port management and cleanup.
 
+vless://port@icook.tw:443?security=tls&sni=is&alpn=h2,http/1.1&fp=chrome&type=ws&path=/&host=is&encryption=none#[pl]%20[vl-tl-ws]%20[at-ar-no]
+vless://This@visa.com:443?security=tls&sni=is&alpn=h2,http/1.1&fp=chrome&type=ws&path=/ws?ed%3D2048&host=is&encryption=none#[pl]%20[vl-tl-ws]%20[at-ar]
